@@ -1,0 +1,22 @@
+{
+  "name": "pip-browser",
+  "version": "1.0.0",
+  "description": "A ElectronJS float browser to visualize your web changes in real-time during the development",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchsantos/PiP-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gchsantos/PiP-browser/issues"
+  },
+  "homepage": "https://github.com/gchsantos/PiP-browser#readme",
+  "dependencies": {
+    "electron": "^19.0.3"
+  }
+}
